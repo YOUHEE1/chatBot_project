@@ -7,8 +7,8 @@
 2020.04.08 - 2020.04.21
 
 ## 사용 Skills
--Python
--TelegramBot API
+- Python
+- TelegramBot API
 - Tesseract
 - 공공데이터
 
